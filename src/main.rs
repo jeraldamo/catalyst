@@ -1,0 +1,3 @@
+use catalyst::*;
+
+fn main() {}
